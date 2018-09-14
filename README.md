@@ -58,7 +58,6 @@ create a collection with name "logbook in newauth and insert this document-
     "arrival" : ""
 }
 {
-   
     "boatName" : "romphy",
     "crewName" : [ 
         " "
@@ -67,3 +66,9 @@ create a collection with name "logbook in newauth and insert this document-
     "departure" : ISODate("2018-09-02T11:10:10.446Z"),
     "arrival" : ""
 }
+
+
+
+
+on one terminal in the cloned local repository run  --> node app.js
+on other terminal in the cloned local repository run  --> npm start
